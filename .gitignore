@@ -1,0 +1,24 @@
+node_modules/
+npm-debug.log
+yarn-error.log
+build/
+.idea
+.gradle
+local.properties
+*.iml
+*.hprof
+.cxx/
+
+# testing
+/coverage
+
+# Yarn
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+!.yarn.lock
+temp_auto_push.bat
+temp_interactive_push.bat
